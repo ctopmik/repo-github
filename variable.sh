@@ -1,0 +1,9 @@
+#!/bin/bash
+#VAR
+TEST1=1
+TEST2=2
+TEST3=3
+TEST4=4
+TEST5=5
+TEST6=6
+TEST7=7
